@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+        { "appID":"W94R446F3W.jp.cp.casleyconsulting.vitalcheckapp",
+          "paths":[ "*" ]
+        }
+    ]
+  }
+}
